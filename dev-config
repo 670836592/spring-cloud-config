@@ -1,2 +1,2 @@
-config
-  info: 00000111
+server
+  port: 8080
